@@ -1,0 +1,3 @@
+main_link=https://www.bbc.com/news
+
+class_link='gs-c-promo-heading__title'
